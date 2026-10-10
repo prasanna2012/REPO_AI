@@ -1,0 +1,6 @@
+{
+  "name": "RepoAI",
+  "description": "Open-source AI code understanding and bug fixing assistant featuring repository indexing, Evidence-to-Fix workflow, interactive chat, and test validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
